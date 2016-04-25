@@ -1,4 +1,4 @@
-# obstacle_detector
+# Obstacle Detector
 Code for making a Obstacle Distance Measurement Device using an 8051 micro-controller, Ultrasonic sensor, LCD and buzzer.
 
 The project utilises an AT89C51 IC and an 8051 development board.
